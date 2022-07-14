@@ -1,0 +1,1 @@
+Uses Newton's method to approximate roots of a function.
